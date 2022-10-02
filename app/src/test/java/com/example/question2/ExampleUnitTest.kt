@@ -1,4 +1,4 @@
-package com.example.splash
+package com.example.question2
 
 import org.junit.Test
 

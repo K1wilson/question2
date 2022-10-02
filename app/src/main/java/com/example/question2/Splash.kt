@@ -1,4 +1,4 @@
-package com.example.splash
+package com.example.question2
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -8,6 +8,7 @@ import android.os.Looper
 import android.view.animation.AnimationUtils
 import android.widget.ImageView
 import android.widget.TextView
+import com.example.splash.R
 
 class Splash : AppCompatActivity() {
     lateinit var backgrounding : ImageView
